@@ -1,0 +1,29 @@
+#container{
+    align-items: center;
+}
+
+.child1{
+    background-color: black;
+    text-align: center;
+}
+
+.child2{
+    background-image: url(../images/banner.jpg);
+    background-size: 500px;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 30px;
+    height: 200px;
+}
+
+.child3{
+    text-align: center;
+}
+
+.child4{
+    text-align: center;
+}
+
+.child5{
+    text-align: center;
+}
